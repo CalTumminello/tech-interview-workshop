@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Cal Tumminello, ctumminello  
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Zach Berritt, zberritt
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** I assessed the question, and had the right thought process. The question was difficult and hard to find a solution in the proper time frame. 
